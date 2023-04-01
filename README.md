@@ -1,4 +1,4 @@
-# Wheel-of-Fortune-Puzzle-Editor
+# Wheel of Fortune (PS1) Puzzle Editor
 ### Initial Setup ###
 1. Use `isodump.exe` in the `tools` folder to extract your copy of the game to `cd\orig`.
 2. Place a copy of the original bin file named `Wheel_of_Fortune_USA.bin` in the `cd` folder.

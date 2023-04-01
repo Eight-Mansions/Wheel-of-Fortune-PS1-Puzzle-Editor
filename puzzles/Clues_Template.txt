@@ -1,0 +1,148 @@
+# Wheel of Fortune (PS1) Clue Template
+
+# - Lines starting with # is a comment and will be ignored
+# - Lines starting with = will be interpreted as category names. = characters will be filtered out
+#   and the inner text will be read to determine the category. Invalid categories will throw errors.
+#   Values are not case sensitive
+# - All other lines will be interpreted as clues under the last category name read.
+#   Clues are not case sensitive; in game they will be all caps regardless.
+#   Punctuation is allowed and will be revealed on the board at the start.
+#   The parser will handle splitting long clues to multiple rows.
+#   Max clue length is about 12 characters per row for a total of ~48. The parser will warn you if a clue is too long.
+
+# You do *NOT* need to fill in all categories! Just leave them blank if you don't have any clues.
+
+# This game also features bonus quizzes at the end of some clues.
+# These clues follow the format of:
+# clue/answer/answer/answer
+# with a * in front of the correct answer
+# Example: I never met a man I didn't like/*Will Rogers/Kenny Rogers/Mr. Rogers
+
+===== Phrase =====
+
+
+===== Person =====
+
+
+===== People =====
+
+
+===== Title =====
+
+
+===== Landmark =====
+
+
+===== Place =====
+
+
+===== Thing =====
+
+
+===== Quotation =====
+
+
+===== Event =====
+
+
+===== Fictional Character =====
+
+
+===== Fictional Place =====
+
+
+===== Places =====
+
+
+===== Star & Role =====
+
+
+===== Person/Title =====
+
+
+===== Occupation =====
+
+
+===== Husband & Wife =====
+
+
+===== Same Name =====
+
+
+===== Before & After =====
+
+
+===== Family =====
+
+
+===== Clue =====
+
+
+===== Foreign Word =====
+
+
+===== Artist & Song =====
+
+
+===== Title/Author =====
+
+
+===== Slang =====
+
+
+===== The 60's =====
+
+
+===== Nickname =====
+
+
+===== Classic TV =====
+
+
+===== Fictional Characters =====
+
+
+===== Fill in the Blank =====
+
+
+===== Next Line Please =====
+
+
+===== Proper Name =====
+
+
+===== Proper Names =====
+
+
+===== Show Biz =====
+
+
+===== Slogan =====
+
+
+===== The 70's =====
+
+
+===== The 80's =====
+
+
+===== The 90's =====
+
+
+===== Things =====
+
+
+===== Where Are We =====
+
+
+===== Who Is It? =====
+
+
+===== Who Said It? =====
+# This category uses the quiz template
+
+
+===== Author/Title =====
+
+
+===== Song/Artist =====

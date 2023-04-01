@@ -1,0 +1,11 @@
+jPSXdec: PSX media decoder (non-commercial) v1.05 (beta)
+Windows 10 10.0
+Java 13.0.2
+Apr 14, 2022, 1:30:18 PM
+[INFO] Filename:C:\Users\yagen\Desktop\Temp\subtitle\MOVIE0.STR|Sector size:2336|Sector count:16216|First sector offset:0
+[INFO] #:0|ID:?[0]|Sectors:0-16209|Type:Video|Dimensions:320x240|Frame Count:1621|Sector Frames:0-16200|Sectors/Frame:10/1|1st frame end sector:9|Disc Speed:2|Header Frames:1-1621
+[INFO] Video format: Image sequence: png
+[INFO] Decode quality: High quality (slower)
+[INFO] Chroma upsampling: Lanczos3
+[INFO] Dimensions: 320x240
+[INFO] Output files: MOVIE0.STR[0][0000].png-MOVIE0.STR[0][1620].png

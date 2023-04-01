@@ -1,0 +1,86 @@
+jPSXdec: PSX media decoder (non-commercial) v1.05 (beta)
+Windows 10 10.0
+Java 13.0.2
+2023-04-01 10:29:12
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: C:\Users\yagen\OneDrive\Games\Translations\Wheel of Fortune\updated_audio\OUT2.XA
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Attempting to identify as 2352/2448
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Attempting to identify as 2336
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Disc type identified as 2336
+10:29 index INFO: Indexing Filename:C:\Users\yagen\OneDrive\Games\Translations\Wheel of Fortune\updated_audio\OUT2.XA|Sector size:2336|Sector count:320|First sector offset:0
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:10-74|Type:XA|File:1|Channel:10|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:12-76|Type:XA|File:1|Channel:12|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:21-85|Type:XA|File:1|Channel:21|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:22-86|Type:XA|File:1|Channel:22|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:11-107|Type:XA|File:1|Channel:11|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:19-115|Type:XA|File:1|Channel:19|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:24-120|Type:XA|File:1|Channel:24|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:30-126|Type:XA|File:1|Channel:30|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:0-128|Type:XA|File:1|Channel:0|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:15-143|Type:XA|File:1|Channel:15|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:17-145|Type:XA|File:1|Channel:17|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:20-148|Type:XA|File:1|Channel:20|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:23-151|Type:XA|File:1|Channel:23|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:25-153|Type:XA|File:1|Channel:25|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:27-155|Type:XA|File:1|Channel:27|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:29-157|Type:XA|File:1|Channel:29|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:8-168|Type:XA|File:1|Channel:8|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:9-169|Type:XA|File:1|Channel:9|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:13-173|Type:XA|File:1|Channel:13|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:26-186|Type:XA|File:1|Channel:26|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:28-188|Type:XA|File:1|Channel:28|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:1-193|Type:XA|File:1|Channel:1|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:2-194|Type:XA|File:1|Channel:2|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:14-206|Type:XA|File:1|Channel:14|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:16-208|Type:XA|File:1|Channel:16|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:18-210|Type:XA|File:1|Channel:18|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:31-223|Type:XA|File:1|Channel:31|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:4-228|Type:XA|File:1|Channel:4|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:6-230|Type:XA|File:1|Channel:6|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:7-231|Type:XA|File:1|Channel:7|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:3-259|Type:XA|File:1|Channel:3|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:5-261|Type:XA|File:1|Channel:5|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.modules.iso9660.DiscIndexerISO9660 WARNING: Disc has no primary descriptor
+10:29 index INFO: Time: 0.07 sec
+10:29 jpsxdec.indexing.DiscIndex INFO: Unknown 138
+10:29 jpsxdec.indexing.DiscIndex INFO: XA Audio 182
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: C:\Users\yagen\OneDrive\Games\Translations\Wheel of Fortune\updated_audio\OUT3.XA
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Attempting to identify as 2352/2448
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Attempting to identify as 2336
+10:29 jpsxdec.cdreaders.CdFileSectorReader INFO: Disc type identified as 2336
+10:29 index INFO: Indexing Filename:C:\Users\yagen\OneDrive\Games\Translations\Wheel of Fortune\updated_audio\OUT3.XA|Sector size:2336|Sector count:544|First sector offset:0
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:3-67|Type:XA|File:1|Channel:3|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:5-69|Type:XA|File:1|Channel:5|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:4-100|Type:XA|File:1|Channel:4|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:8-104|Type:XA|File:1|Channel:8|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:26-122|Type:XA|File:1|Channel:26|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:0-128|Type:XA|File:1|Channel:0|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:1-129|Type:XA|File:1|Channel:1|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:2-130|Type:XA|File:1|Channel:2|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:6-134|Type:XA|File:1|Channel:6|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:7-135|Type:XA|File:1|Channel:7|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:9-137|Type:XA|File:1|Channel:9|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:10-138|Type:XA|File:1|Channel:10|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:13-141|Type:XA|File:1|Channel:13|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:14-142|Type:XA|File:1|Channel:14|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:24-152|Type:XA|File:1|Channel:24|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:27-155|Type:XA|File:1|Channel:27|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:11-171|Type:XA|File:1|Channel:11|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:12-172|Type:XA|File:1|Channel:12|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:15-175|Type:XA|File:1|Channel:15|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:17-177|Type:XA|File:1|Channel:17|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:25-185|Type:XA|File:1|Channel:25|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:16-208|Type:XA|File:1|Channel:16|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:31-255|Type:XA|File:1|Channel:31|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:18-274|Type:XA|File:1|Channel:18|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:19-275|Type:XA|File:1|Channel:19|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:22-342|Type:XA|File:1|Channel:22|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:30-350|Type:XA|File:1|Channel:30|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:20-372|Type:XA|File:1|Channel:20|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:21-373|Type:XA|File:1|Channel:21|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:23-407|Type:XA|File:1|Channel:23|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:28-412|Type:XA|File:1|Channel:28|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:29-509|Type:XA|File:1|Channel:29|Stereo?:No|Samples/Sec:18900|Bits/Sample:4|Sector stride:32|Disc speed:2x
+10:29 jpsxdec.modules.iso9660.DiscIndexerISO9660 WARNING: Disc has no primary descriptor
+10:29 index INFO: Time: 0.04 sec
+10:29 jpsxdec.indexing.DiscIndex INFO: Unknown 320
+10:29 jpsxdec.indexing.DiscIndex INFO: XA Audio 224

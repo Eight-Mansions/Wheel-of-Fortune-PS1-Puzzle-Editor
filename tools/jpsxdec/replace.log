@@ -1,0 +1,51 @@
+jPSXdec: PSX media decoder (non-commercial) v1.05 (beta)
+Windows 10 10.0
+Java 1.8.0_321
+Jan 30, 2022 3:20:39 PM
+[SEVERE] ?[0] is not completely in the bounds of the CD/file, extracting it will cause errors.
+[INFO] Patching #:0|ID:?[0]|Sectors:0-112|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] with #:0|ID:?[0]|Sectors:0-112|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Patching sector XA Audio [Sector:0 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000 SILENT
+[INFO] with sector XA Audio [Sector:0 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:8 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000 SILENT
+[INFO] with sector XA Audio [Sector:1 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:16 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:2 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:24 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:3 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:32 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:4 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:40 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:5 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:48 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:6 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:56 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:7 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:64 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:8 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:72 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:9 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:80 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:10 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:88 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:11 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:96 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:12 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:104 M2 File.Channel:1.0 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:13 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Patching sector XA Audio [Sector:112 M2 File.Channel:1.0 Submode:FR2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] with sector XA Audio [Sector:14 M2 File.Channel:1.1 Submode:-R2--A--] Stereo 4 bits/sample 37800 samples/sec 0000000000000000000000000000000000000000
+[INFO] Writing patched sector 0
+[INFO] Writing patched sector 8
+[INFO] Writing patched sector 16
+[INFO] Writing patched sector 24
+[INFO] Writing patched sector 32
+[INFO] Writing patched sector 40
+[INFO] Writing patched sector 48
+[INFO] Writing patched sector 56
+[INFO] Writing patched sector 64
+[INFO] Writing patched sector 72
+[INFO] Writing patched sector 80
+[INFO] Writing patched sector 88
+[INFO] Writing patched sector 96
+[INFO] Writing patched sector 104
